@@ -1,1 +1,1 @@
-welcome git 
+welcome git version 1.0
